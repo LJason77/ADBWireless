@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADBWireless</string>
+    <string name="success">请在电脑上运行\nadb connect %1$s</string>
+    <string name="failure">需要 Root 权限</string>
+    <string name="stop">停止</string>
+    <string name="start">运行</string>
+</resources>

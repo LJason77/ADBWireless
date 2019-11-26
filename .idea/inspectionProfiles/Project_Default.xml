@@ -1,0 +1,9 @@
+<component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+        <option name="myName" value="Project Default" />
+        <inspection_tool class="BlockingMethodInNonBlockingContext" enabled="false"
+            enabled_by_default="false" level="WARNING" />
+        <inspection_tool class="RedundantSuspendModifier" enabled="false" enabled_by_default="false"
+            level="WARNING" />
+    </profile>
+</component>
